@@ -77,7 +77,7 @@ ul{
 .nav-links ul{
     justify-content: end;
     gap: 40px;
-    flex-wrap: wrap;
+/*     flex-wrap: wrap; */
 }
 .hover-link{
     color: var(--primary-text-color);
